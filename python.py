@@ -1,3 +1,3 @@
-a = 100
+a = 10000
 b = 10
-print(a + b)
+print(a * b)
